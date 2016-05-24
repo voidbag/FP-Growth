@@ -1,0 +1,14 @@
+Data mining
+[FP-Tree algorithm]
+Taeksang Kim
+Input file: 983.txt
+Minimum support: 80
+
+====L1====
+Support: 81 Set: [38]
+Support: 113 Set: [63]
+Support: 80 Set: [87]
+Support: 92 Set: [222]
+Support: 82 Set: [360]
+
+ 185(ms)

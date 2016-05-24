@@ -1,0 +1,7 @@
+Data mining
+[FP-Tree algorithm]
+Taeksang Kim
+Input file: 983.txt
+Minimum support: 3360
+
+ 176(ms)
